@@ -14,7 +14,7 @@
 
 
 ## 🔭 I’m currently working on 
-   - CSE 6242 and CS 7646, Improving my web development and visualization skills.
+   - Improving my web development and visualization skills.
    - Individual and team projects on Human Activity recognition using inertial sensors from smartphones.
    - building my own knowledge regarding website development and the interactive visualizations along with trading using ML.
 ## 🤝 I’m looking to collaborate on 
