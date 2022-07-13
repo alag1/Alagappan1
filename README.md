@@ -1,6 +1,6 @@
  # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=A2C3E2&size=24&center=true&vCenter=true&width=800&lines=Hello+there+%F0%9F%91%8B!+Alagappan+here.;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
-<!-- [![Alagappan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alagappan1&hide=stars&include_all_commits=false&count_private=true&show_icons=true&theme=prussian&card_width=1.5)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Alagappan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alagappan1&hide=stars&include_all_commits=true&count_private=true&show_icons=true&theme=prussian&card_width=1.5)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 [![Alagappan's github stats](https://github-readme-stats.vercel.app/api?username=alagappan1&hide=stars&include_all_commits=True&count_private=true&show_icons=true&theme=radical&card_width=1.5)](https://github.com/anuraghazra/github-readme-stats) 
