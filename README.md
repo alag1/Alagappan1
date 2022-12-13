@@ -16,7 +16,7 @@
 ## 🔭 I’m currently working on 
    - Improving my web development and visualization skills.
    - Individual and team projects on Human Activity recognition using inertial sensors from smartphones.
-   - building my own knowledge regarding website development and the interactive visualizations along with trading using ML.
+   - building my own knowledge regarding Quantitative Finance, interactive visualizations and trading using ML.
 ## 🤝 I’m looking to collaborate on 
    - Interesting projects involving sensors, signal processing, biomedical analysis and machine learning.
    - Discussions regrding the ethics of AI usage and business aspect of cloud computing.
